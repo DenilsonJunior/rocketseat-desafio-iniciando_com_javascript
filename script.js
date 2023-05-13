@@ -72,10 +72,10 @@
 /*
     let number = Number(prompt('Digite um número'))
 
-    if( number % 2 ){
-        alert('Seu número é ímpar')
-    } else {
+    if( !number % 2 ){
         alert('Seu número é par')
+    } else {
+        alert('Seu número é ímpar')
     }
 */
 
